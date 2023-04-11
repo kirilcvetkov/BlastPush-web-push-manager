@@ -1,6 +1,8 @@
 
 ## About Blast Push
 
+![BlastPush-Dashboard](/public/assets/images/blastpush-dashboard.png)
+
 Blast Push is an API-first, fully-featured Web Push Notifications manager. Built for scale on Laravel 8 with snappy Vue.js front-end.
 
 ## Contributing
