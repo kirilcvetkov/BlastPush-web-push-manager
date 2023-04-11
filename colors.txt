@@ -1,0 +1,44 @@
+## Backgound Gradients ##
+purple: linear-gradient(to right, #da8cff, #9a55ff)
+green: linear-gradient(to right, #84d9d2, #07cdae)
+blue: linear-gradient(to right, #90caf9, #047edf)
+red: linear-gradient(to right, #ffbf96, #fe7096)
+yellow: linear-gradient(to right, #f6e384, #ffd500)
+dark: linear-gradient(89deg, #5e7188, #3e4b5b)
+secondary: linear-gradient(to right, #e7ebf0, #868e96)
+light: linear-gradient(to bottom, #f4f4f4, #e4e4e9)
+
+## OG Text Colors ##
+purple: #b66dff
+green: #1bcfb4
+blue: #198ae3
+red: #fe7c96
+yellow: #fed713
+dark: #3e4b5b
+secondary: #c3bdbd
+light: #f8f9fa
+muted: #9c9fa6
+code: #fe7c96
+
+
+--blue-grad: linear-gradient(to right, #9289FB, #5E50F9)
+--indigo-grad: linear-gradient(to right, #6610f2, #6610f2)
+--purple-grad: linear-gradient(to right, #6a008a, #6a008a)
+--purple-light-grad: linear-gradient(to right, #F2EDF3, #F2EDF3)
+--pink-grad: linear-gradient(to right, #E91E63, #E91E63)
+--red-grad: linear-gradient(to right, #f96868, #f96868)
+--orange-grad: linear-gradient(to right, #f2a654, #f2a654)
+--yellow-grad: linear-gradient(to right, #f6e84e, #f6e84e)
+--green-grad: linear-gradient(to right, #46c35f, #46c35f)
+--teal-grad: linear-gradient(to right, #58d8a3, #58d8a3)
+--cyan-grad: linear-gradient(to right, #57c7d4, #57c7d4)
+--gray-grad: linear-gradient(to right, #6c757d, #6c757d)
+--gray-dark-grad: linear-gradient(to right, #0f1531, #0f1531)
+
+
+
+gradient 3-way
+#00ABE7 (top-left)
+#13086C (top-right)
+#FF58C8 (bottom-right)
+#100865 (bottom-left)
