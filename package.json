@@ -37,7 +37,7 @@
         "numeral": "^2.0.6",
         "perfect-scrollbar": "^1.5.0",
         "popper.js": "^1.16.1",
-        "postcss": "^8.2.4",
+        "postcss": "^8.2.13",
         "pusher-js": "^7.0.3",
         "sass-loader": "^10.1.1",
         "vue-chartjs": "^3.5.1",
